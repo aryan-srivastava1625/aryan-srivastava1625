@@ -116,6 +116,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aryan-srivastava1625/aryan-srivastava1625/output/snake.svg" alt="Snake animation" />
 
 ###
